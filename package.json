@@ -15,7 +15,9 @@
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.8",
+    "material-ui": "^0.20.0",
     "react": "^15.5.4",
+    "react-bootstrap": "^0.31.5",
     "react-dom": "^15.5.4",
     "react-interactive": "^0.6.5",
     "react-router-dom": "^4.1.1"
