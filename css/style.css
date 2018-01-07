@@ -204,12 +204,12 @@ ol.type li a {
 	border-radius: 0;
 }
 ol.type li a.active {
-	color: #0dad8d;
-	border: 1px solid #0dad8d;
+	color: #03A9F4;
+	border: 1px solid #03A9F4;
 }
 ol.type li a:hover {
-	color: #0dad8d;
-	border: 1px solid #0dad8d;
+	color: #03A9F4;
+	border: 1px solid #03A9F4;
 }
 .isotope-item {
 	z-index: 2
