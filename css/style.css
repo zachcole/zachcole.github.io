@@ -354,10 +354,15 @@ img.img-circle.team-img {
 	font-weight: 500;
 	display: block;
 }
+.achievement-box i {
+	color: rgba(255,255,255,0.8);
+	font-size: 90px;
+
+}
 /* Contact Section */
 #contact-section {
 	padding: 120px 0 60px 0;
-	background-color: #f6f6f6;
+	background-color: #fff;
 }
 #contact-section h3 {
 	font-size: 20px;
