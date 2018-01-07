@@ -67,7 +67,7 @@ hr {
 	width: 60px;
 	text-align: center;
 	position: relative;
-	background: #0dad8d;
+	background: #03A9F4;
 	border: 0;
 	margin: 10px auto 30px;
 }
@@ -111,8 +111,8 @@ hr {
 	border-radius: 0;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-	background-color: #0dad8d;
-	border-color: #0dad8d;
+	background-color: #03A9F4;
+	border-color: #fff;
 }
 .navbar-default .navbar-toggle:hover>.icon-bar {
 	background-color: #FFF;
@@ -337,7 +337,7 @@ img.img-circle.team-img {
 /* Achivements Section */
 #achievements {
 	padding: 80px 0;
-	background-color: #0dbf9b;
+	background-color: #03A9F4;
 }
 .achievement-box {
 	text-align: center;
@@ -367,7 +367,7 @@ img.img-circle.team-img {
 	padding: 30px 0;
 }
 #contact-section i.fa {
-	color: #0dad8d;
+	color: #03A9F4;
 	font-size: 16px;
 	margin-bottom: 10px;
 }
@@ -430,7 +430,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 /* Social Section */
 #social-section {
 	padding: 30px 0;
-	background-color: #0dbf9b;
+	background-color: #03A9F4;
 	text-align: center;
 }
 #social-section .social ul li {
